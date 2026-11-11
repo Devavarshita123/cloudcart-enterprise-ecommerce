@@ -10,5 +10,3 @@
 - **Performance Efficiency:** use a small local cache benchmark to illustrate measurement. Real decisions require representative load tests and workload-specific metrics.
 - **Cost Optimization:** make assumptions visible and compare estimates to a budget threshold. Real costs require current regional pricing and actual billing data.
 
-## Honest limitations
-The repository does not deploy AWS resources, does not call AWS APIs, and does not establish production security, availability, or performance. These are local demonstrations and design proposals.
