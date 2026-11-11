@@ -1,4 +1,4 @@
-# Portfolio Walkthrough and Interview Talking Points
+# Portfolio Walkthrough
 
 ## 60-second summary
 “CloudCart is a local-first architecture portfolio project organized around the five AWS Well-Architected pillars. I built reusable Python modules and tests to demonstrate configuration validation, health aggregation, bounded retries, structured diagnostic events, caching, and transparent cost estimates. I kept the initial build local to avoid unplanned cloud charges and documented which parts are simulations versus future AWS implementation work.”
